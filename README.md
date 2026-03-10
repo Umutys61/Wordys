@@ -74,6 +74,6 @@ ProjectSettings/ → Unity project configuration
 ## 👨‍💻 Author
 
 **Umut Yeşilyurt**  
-Software Engineering Student
+Junior Game Developer
 
 GitHub: https://github.com/Umutys61
